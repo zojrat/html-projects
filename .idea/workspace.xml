@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="61e13afd-d495-4094-8dbc-1e45c008360b" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/phpRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD_Basic/base_layouts/layout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD_Basic/base_layouts/navbar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD_Basic/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD_Basic/views/_index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/simplephp.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -15,20 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hello world.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello world.html">
+      <file leaf-file-name="layout.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CRUD_Basic/base_layouts/layout.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="simplephp.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/simplephp.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="104">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -52,6 +48,11 @@
         <option value="$PROJECT_DIR$/simplephp" />
         <option value="$PROJECT_DIR$/hello world.html" />
         <option value="$PROJECT_DIR$/simplephp.php" />
+        <option value="$PROJECT_DIR$/CRUD_Basic/layout.php" />
+        <option value="$PROJECT_DIR$/CRUD_Basic/index.php" />
+        <option value="$PROJECT_DIR$/CRUD_Basic/base_layouts/layout.php" />
+        <option value="$PROJECT_DIR$/CRUD_Basic/base_layouts/navbar.php" />
+        <option value="$PROJECT_DIR$/CRUD_Basic/views/_index.php" />
       </list>
     </option>
   </component>
@@ -124,7 +125,7 @@
       <path value="D:/xampp/php/PEAR" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="20" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -145,6 +146,23 @@
               <item name="my-web-practices" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-web-practices" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="my-web-practices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-web-practices" type="462c0819:PsiDirectoryNode" />
+              <item name="CRUD_Basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-web-practices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-web-practices" type="462c0819:PsiDirectoryNode" />
+              <item name="CRUD_Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="base_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-web-practices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-web-practices" type="462c0819:PsiDirectoryNode" />
+              <item name="CRUD_Basic" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -161,6 +179,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="C:/Program Files/nodejs/node_modules/npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Web\my-web-practices\CRUD_Basic\base_layouts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -192,15 +215,16 @@
       <workItem from="1720003438201" duration="2484000" />
       <workItem from="1720007875160" duration="412000" />
       <workItem from="1720010469655" duration="460000" />
-      <workItem from="1720011347978" duration="218000" />
+      <workItem from="1720011347978" duration="1576000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5557000" />
+    <option name="totallyTimeSpent" value="6915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24027778" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -304,20 +328,51 @@
     <entry file="file://$PROJECT_DIR$/node_modules/jquery/src/jquery.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css" />
     <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" />
+    <entry file="file://D:/xampp/php/php.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/hello world.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="212">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/xampp/php/php.ini">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/simplephp.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="78">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUD_Basic/views/_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUD_Basic/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUD_Basic/base_layouts/navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="59" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRUD_Basic/base_layouts/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
