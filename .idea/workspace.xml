@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61e13afd-d495-4094-8dbc-1e45c008360b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/hello world.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello world.html" afterDir="false" />
-    </list>
+    <list default="true" id="61e13afd-d495-4094-8dbc-1e45c008360b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +14,8 @@
       <file leaf-file-name="hello world.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello world.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="260">
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -124,15 +122,15 @@
       <workItem from="1720000362194" duration="45000" />
       <workItem from="1720000443959" duration="1216000" />
       <workItem from="1720001711055" duration="554000" />
-      <workItem from="1720003438201" duration="1741000" />
+      <workItem from="1720003438201" duration="2484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3724000" />
+    <option name="totallyTimeSpent" value="4467000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -225,10 +223,52 @@
         <state relative-caret-position="-516" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="4" column="176406" selection-start-line="4" selection-start-column="176406" selection-end-line="4" selection-end-column="176406" />
+          <caret line="4" column="176953" selection-start-line="4" selection-start-column="176953" selection-end-line="4" selection-end-column="176953" />
+          <folding>
+            <element signature="e#33839#34062#2" expanded="true" />
+            <element signature="e#35375#35598#2" expanded="true" />
+            <element signature="e#36777#36998#2" expanded="true" />
+            <element signature="e#37062#37195#2" expanded="true" />
+            <element signature="e#37314#37529#2" expanded="true" />
+            <element signature="e#37800#37950#2" expanded="true" />
+            <element signature="e#38264#38400#2" expanded="true" />
+            <element signature="e#38493#38626#2" expanded="true" />
+            <element signature="e#39097#39253#2" expanded="true" />
+            <element signature="e#47396#47629#2" expanded="true" />
+            <element signature="e#48483#48716#2" expanded="true" />
+            <element signature="e#50730#51044#2" expanded="true" />
+            <element signature="e#51921#52235#2" expanded="true" />
+            <element signature="e#78083#78321#2" expanded="true" />
+            <element signature="e#86715#86956#2" expanded="true" />
+            <element signature="e#87027#87268#2" expanded="true" />
+            <element signature="e#92402#92610#2" expanded="true" />
+            <element signature="e#92792#93000#2" expanded="true" />
+            <element signature="e#96297#96568#2" expanded="true" />
+            <element signature="e#96600#96871#2" expanded="true" />
+            <element signature="e#117523#117844#2" expanded="true" />
+            <element signature="e#137959#138206#2" expanded="true" />
+            <element signature="e#138252#138500#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hello world.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        <state relative-caret-position="260">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
     </entry>
