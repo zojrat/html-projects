@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61e13afd-d495-4094-8dbc-1e45c008360b" name="Default" comment="" />
+    <list default="true" id="61e13afd-d495-4094-8dbc-1e45c008360b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplephp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hello world.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hello world.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello world.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="simplephp.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/simplephp.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -36,7 +49,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/simplephp" />
         <option value="$PROJECT_DIR$/hello world.html" />
+        <option value="$PROJECT_DIR$/simplephp.php" />
       </list>
     </option>
   </component>
@@ -54,8 +69,60 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/@popperjs/core/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/agent-base/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cssstyle/node_modules/rrweb-cssom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cssstyle/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/data-urls/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/decimal.js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/entities/lib/esm/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/html-encoding-sniffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/http-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/https-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-potential-custom-element-name/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jquery/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jsdom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/nwsapi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parse5/dist/cjs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parse5/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/querystringify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/requires-port/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/rrweb-cssom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/saxes/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/symbol-tree/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/tr46/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/universalify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/url-parse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/w3c-xmlserializer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/webidl-conversions/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/whatwg-encoding/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/whatwg-mimetype/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/whatwg-url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/xml-name-validator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/xmlchars/package.json" />
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.2">
+    <include_path>
+      <path value="D:/xampp/php/PEAR" />
+    </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="20" />
@@ -75,8 +142,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="html-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="my-web-practices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-web-practices" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -88,12 +155,12 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/xampp/php/php.exe" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="C:/Program Files/nodejs/node_modules/npm" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -123,17 +190,19 @@
       <workItem from="1720000443959" duration="1216000" />
       <workItem from="1720001711055" duration="554000" />
       <workItem from="1720003438201" duration="2484000" />
+      <workItem from="1720007875160" duration="412000" />
+      <workItem from="1720010469655" duration="460000" />
+      <workItem from="1720011347978" duration="218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4467000" />
+    <option name="totallyTimeSpent" value="5557000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24027778" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -161,6 +230,34 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hello world.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplephp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello world.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello world.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hello world.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -196,18 +293,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/New folder/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/package/lib/package.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-936">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/package/lib/package.js" />
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-112">
@@ -215,60 +301,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/jquery/src/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-516" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="4" column="176406" selection-start-line="4" selection-start-column="176406" selection-end-line="4" selection-end-column="176406" />
-          <caret line="4" column="176953" selection-start-line="4" selection-start-column="176953" selection-end-line="4" selection-end-column="176953" />
-          <folding>
-            <element signature="e#33839#34062#2" expanded="true" />
-            <element signature="e#35375#35598#2" expanded="true" />
-            <element signature="e#36777#36998#2" expanded="true" />
-            <element signature="e#37062#37195#2" expanded="true" />
-            <element signature="e#37314#37529#2" expanded="true" />
-            <element signature="e#37800#37950#2" expanded="true" />
-            <element signature="e#38264#38400#2" expanded="true" />
-            <element signature="e#38493#38626#2" expanded="true" />
-            <element signature="e#39097#39253#2" expanded="true" />
-            <element signature="e#47396#47629#2" expanded="true" />
-            <element signature="e#48483#48716#2" expanded="true" />
-            <element signature="e#50730#51044#2" expanded="true" />
-            <element signature="e#51921#52235#2" expanded="true" />
-            <element signature="e#78083#78321#2" expanded="true" />
-            <element signature="e#86715#86956#2" expanded="true" />
-            <element signature="e#87027#87268#2" expanded="true" />
-            <element signature="e#92402#92610#2" expanded="true" />
-            <element signature="e#92792#93000#2" expanded="true" />
-            <element signature="e#96297#96568#2" expanded="true" />
-            <element signature="e#96600#96871#2" expanded="true" />
-            <element signature="e#117523#117844#2" expanded="true" />
-            <element signature="e#137959#138206#2" expanded="true" />
-            <element signature="e#138252#138500#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/src/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" />
     <entry file="file://$PROJECT_DIR$/hello world.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/xampp/php/php.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simplephp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
